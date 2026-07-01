@@ -30,7 +30,7 @@ export const projects = [
   },
 
   {
-    title: 'KrishiDiha',
+    title: 'KrishiDisha',
     description: 'KrishiDisha is a smart agriculture platform that helps farmers make informed decisions by providing crop recommendations, weather updates, farming tips, and market price information.',
     tech: ['React.js', 'Html', 'CSS', 'JavaScript', 'Node.js', 'Express.js', 'MongoDB', 'OpenAI API', 'FasrAPI'],
     image: '/assets/KrishiDisha.png',
