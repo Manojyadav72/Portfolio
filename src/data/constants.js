@@ -67,7 +67,7 @@ export const projects = [
 
  
   {
-    title: 'Cofee Shop Website',
+    title: 'Coffee Shop Website',
     description: 'Coffee Shop Website is a modern and responsive website that showcases a coffee shops menu, featured products, services, and contact information with an elegant and user-friendly design.',
     tech: ['Html', 'CSS', 'JavaScript'],
     image: '/assets/EspressoNest.png',
