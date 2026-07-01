@@ -38,6 +38,15 @@ export const projects = [
     githubUrl: 'https://github.com/Manojyadav72/CropRecommendation',
   },
   {
+    title: 'Portfolio Website',
+    description: 'A responsive portfolio website to showcase my skills, projects, and experience.',
+    tech: ['React.js', 'Html', 'Tailwind CSS', 'JavaScript'],
+    image: '/assets/portfolio.png',
+    liveUrl: 'https://portfolio-navy-pi-12.vercel.app/',
+    githubUrl: 'https://github.com/Manojyadav72/Portfolio',
+  },
+  
+  {
     title: 'Typing Speed Test',
     description: 'A comprehensive typing speed test application with user authentication, leaderboard system, and detailed performance metrics including WPM and accuracy tracking.',
     features: ['Login & Signup', 'Leaderboard', 'WPM Tracking', 'Accuracy Stats', 'Timer', 'Local Storage'],
